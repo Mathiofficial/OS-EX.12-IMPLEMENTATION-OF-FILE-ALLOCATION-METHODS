@@ -47,7 +47,8 @@ getch();
 
 ## OUTPUT:
 
-![](12.1.png)
+![12 1](https://github.com/Mathiofficial/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/118787327/dacb8ed0-8276-4804-aad6-21b52ad73736)
+
 
 ## RESULT:
 
@@ -117,7 +118,7 @@ getch();
 
 ## OUTPUT:
 
-![](12.2.png)
+![12 2](https://github.com/Mathiofficial/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/118787327/4ec88be4-f0ca-4184-85ad-54c6307802e6)
 
 ## RESULT:
 
@@ -184,7 +185,8 @@ return 0;
 
 ## OUTPUT:
 
-![](12.3.png)
+![12 3](https://github.com/Mathiofficial/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/118787327/aff04006-d758-40be-9de3-7f7ca80c3cdd)
+
 
 ## RESULT:
 
